@@ -1,0 +1,61 @@
+#tong{
+    width: 100%;
+    font-family: segoe ui light;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #23B8C1;
+    transition-duration: 0.7s;
+}
+#dang_ki{
+    width: 74.5%;
+    height: 620px;
+    float: right;
+    position: relative;
+    text-align: center;
+}
+table{
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+input{
+    border-radius: 4px;
+    background-color: white;
+    padding: 10px 30px;
+}
+textarea{
+    border: 2px solid rgb(22, 39, 31);
+    border-radius: 4px;
+    width: 250px;
+    height: 70px;
+}
+.form{
+    width: 200px;
+}
+.input{
+    width: 350px;
+}
+.button{
+    border: tomato;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    background-color: rgb(247, 186, 175);
+    padding: 15px 32px;
+    font: segoe ui light bold;
+}
+.button:hover{
+    border: tomato;
+    background-color: tomato;
+    color: white;
+    cursor: pointer;
+}
+td a{
+    text-decoration: underline;
+    color: teal;
+}

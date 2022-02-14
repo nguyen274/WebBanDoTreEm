@@ -1,0 +1,30 @@
+#tong{
+    width: 100%;
+    font-family: segoe ui light;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #23B8C1;
+    transition-duration: 0.7s;
+}
+#dang_nhap{
+    width: 74.5%;
+    height: 620px;
+    float: right;
+    position: relative;
+    text-align: center;
+    background: url(https://i.pinimg.com/originals/2b/2f/9c/2b2f9cea8b94babdbc522b3428536781.jpg) no-repeat;
+}
+table{
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 320px;
+}
+button{
+    cursor: pointer;
+}
